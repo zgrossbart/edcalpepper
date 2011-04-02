@@ -1,0 +1,9 @@
+The <a href="http://wordpress.org/extend/plugins/editorial-calendar/">WordPress Editorial Calendar</a> collects statistics about the blogs it is used on with a software package called <a href="http://www.haveamint.com/">Mint</a>.  A lot of the functionality is from the the default Mint installation.
+
+For extra information about the Editorial Calendar we add some extensions called Peppers.  This project contains the three peppers:
+
+<ul>
+<li><b>edcalinfo</b> shows informational messages about the Editorial Calendar</li>
+<li><b>edcalstats</b> shows specific statistics about the blogs using the calendar like the number of visible weeks and the number of authors.</li>
+<li><b>edcalusers</b> shows information about the individual blogs running the Editorial Calendar</li>
+</ul>
